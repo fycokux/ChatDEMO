@@ -1,0 +1,5 @@
+{
+  "name": "Neighborhood.ai",
+  "description": "A simulated real-time local community chat application powered by Gemini. Users can sign up, log in, and interact with AI-driven community members across various channels.",
+  "requestFramePermissions": []
+}
